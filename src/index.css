@@ -15,11 +15,7 @@ ol {
   list-style: none;
 }
 
-img {
-  max-width: 100%;
-}
-
 /*  */
 body {
-  background-color: honeydew;
+  background-color: rgba(206, 189, 189, 0.726);
 }
